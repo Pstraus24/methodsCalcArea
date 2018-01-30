@@ -34,6 +34,7 @@ public class Main {
                 break;
             case 4:
                 triangleArea();
+                 break;
         }
 
     }
